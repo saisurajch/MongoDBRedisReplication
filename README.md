@@ -33,7 +33,7 @@ The application monitors Redis for keyspace changes and replicates them to Mongo
 
 ## Configuration
 
-- Update the MongoDB URI and Redis configuration in `main.py` if needed.
+- Check `docs` for more information on configuration.
 
 ## Contributing
 
