@@ -1,0 +1,5 @@
+redis
+pymongo
+rejson
+redis-py-cluster
+python-dotenv
